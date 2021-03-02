@@ -4,6 +4,7 @@
   "description": "A suspicious red button to be pressed in case of emergency.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kheoss",
