@@ -35,7 +35,7 @@ const spam = async (msg)=>{
     canCreateMeeting = false;
     let index = 0;
 
-    while(index < 5){
+    while(index < 7){
         index++;
         msg.channel.send("@everyone");
         const embededPhoto = new Discord.MessageEmbed()
