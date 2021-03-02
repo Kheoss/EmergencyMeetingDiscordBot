@@ -1,0 +1,15 @@
+{
+  "name": "oopp_emergency_meeting",
+  "version": "0.0.1",
+  "description": "A suspicious red button to be pressed in case of emergency.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kheoss",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
